@@ -1,0 +1,10 @@
+C:\Users\Andrew\source\repos\DoomLauncher\DoomLauncher\bin\Debug\DoomLauncher.exe.config
+C:\Users\Andrew\source\repos\DoomLauncher\DoomLauncher\bin\Debug\DoomLauncher.exe
+C:\Users\Andrew\source\repos\DoomLauncher\DoomLauncher\bin\Debug\DoomLauncher.pdb
+C:\Users\Andrew\source\repos\DoomLauncher\DoomLauncher\obj\Debug\DoomLauncher.csproj.AssemblyReference.cache
+C:\Users\Andrew\source\repos\DoomLauncher\DoomLauncher\obj\Debug\DoomLauncher.Form1.resources
+C:\Users\Andrew\source\repos\DoomLauncher\DoomLauncher\obj\Debug\DoomLauncher.Properties.Resources.resources
+C:\Users\Andrew\source\repos\DoomLauncher\DoomLauncher\obj\Debug\DoomLauncher.csproj.GenerateResource.cache
+C:\Users\Andrew\source\repos\DoomLauncher\DoomLauncher\obj\Debug\DoomLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\DoomLauncher\DoomLauncher\obj\Debug\DoomLauncher.exe
+C:\Users\Andrew\source\repos\DoomLauncher\DoomLauncher\obj\Debug\DoomLauncher.pdb
